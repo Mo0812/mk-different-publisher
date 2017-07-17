@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Different Publisher Plugin
- * Plugin URI: http://moritzkanzler.de/
+ * Plugin URI:
  * Description: Only other (authorized) user can publish your own posts and vice versa.
  * Version: 1.0
  * Author: Moritz Kanzler
