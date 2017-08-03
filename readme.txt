@@ -12,7 +12,7 @@ This WordPress Plugin prevent backend user to publish their own posts, even if t
 
 == Description ==
 
-This project has a repository at github: https://github.com/Mo0812/mk-different-publisher
+This project has a repository at github: [https://github.com/Mo0812/mk-different-publisher](https://github.com/Mo0812/mk-different-publisher)
 
 == Installation ==
 

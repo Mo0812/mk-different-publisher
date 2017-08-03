@@ -1,12 +1,12 @@
 <?php
 /**
- * Plugin Name: Different Publisher Plugin
+ * Plugin Name: MK Different Publisher Plugin (dev)
  * Plugin URI:
  * Description: Only other (authorized) user can publish your own posts and vice versa.
  * Version: 1.0
  * Author: Moritz Kanzler
  * Author URI: http://moritzkanzler.de
- * License: GPLv2
+ * License: GPLv2 or later
  */
 
 function mk_register_settings() {
